@@ -1,11 +1,6 @@
 # Say
 
-[![Busted](https://img.shields.io/github/workflow/status/lunarmodules/say/Busted?label=Busted&logo=Lua)](https://github.com/lunarmodules/say/actions?workflow=Busted)
-[![Luacheck](https://img.shields.io/github/workflow/status/lunarmodules/say/Luacheck?label=Luacheck&logo=Lua)](https://github.com/lunarmodules/say/actions?workflow=Luacheck)
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lunarmodules/say?label=Tag&logo=GitHub)](https://github.com/lunarmodules/say/releases)
-[![Luarocks](https://img.shields.io/luarocks/v/lunarmodules/say?label=Luarocks&logo=Lua)](https://luarocks.org/modules/lunarmodules/say)
-
-say is a simple string key/value store for i18n or any other case where you want namespaced strings.
+`say` is a simple string key/value store for `i18n` or any other case where you want namespaced strings.
 
 Check out [busted](https://lunarmodules.github.io/busted/) for extended examples.
 
